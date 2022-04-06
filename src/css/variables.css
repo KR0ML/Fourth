@@ -1,0 +1,25 @@
+:root {
+    --primary: #23A6F0;
+    --text: #252B42;
+    --second-text: #737373;
+    --light-text: #FFFFFF;
+    --dark-bg: #252B42;
+    --light-bg: #FFFFFF;
+    --disabled-element: #8EC2F2;
+    --muted: #BDBDBD;
+    --success: #2DC071;
+    --light-grey: #FAFAFA;
+}
+
+/* ===========================
+                        BUTTON
+=========================== */
+
+button {
+    position: relative;
+    border: 0;
+    background-color: transparent;
+    display: inline-block;
+    padding: 0;
+    cursor: pointer;
+}
